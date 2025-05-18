@@ -2,4 +2,3 @@ pandas
 streamlit
 joblib
 fuzzywuzzy
-random
